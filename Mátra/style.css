@@ -1,0 +1,73 @@
+body {
+    background-image: url(img/erdo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: rgb(2, 87, 2);
+    margin: 25px 100px;
+
+}
+
+a {
+    color: rgb(9, 179, 9);
+}
+
+img {
+    width: 200px;
+    height: 150px;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+div {
+
+    width: 820px;
+    /*adott szélességű elemet középre akarod*/
+    margin: 0 auto;
+}
+
+#kirandulas {
+   position: absolute;
+   bottom: 1px;
+   left: 1690px;
+   top: 900px;
+}
+
+.center {
+    text-align: center;
+}
+
+table {
+    border-style: double;
+    width: 20%;
+    
+       
+}
+
+.center {
+    text-align: center;
+    border-style: double;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.right {
+    text-align: right;
+    border-style: double;
+  
+}
+
+.centerp {
+    text-align: center;
+}
+
+.centerins {
+    position: absolute;
+    left: 750px;
+    top: 600px;
+}
+
+/*szorgalmi, befejezni az oldalt*/
